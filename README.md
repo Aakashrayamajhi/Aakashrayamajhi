@@ -1,3 +1,25 @@
+👨‍💻 About Me
+MERN & React Native Dev | Web3 + AI Enthusiast | Python Data Engineer | Automation & Scalable App Builder
+
+Hi, I'm Aakash Rayamajhi — a passionate developer currently shaping myself into a T-Shaped / Pi-Shaped Engineer, building deep expertise in JavaScript & Python, while exploring the wider landscape of the IT ecosystem.
+
+I love working on:
+
+⚡ MERN Stack & React Native
+
+🤖 AI Integrations (RAG, Vector DBs, Embeddings, LLMs)
+
+🐍 Python (Pandas, NumPy, Scikit-Learn) for data workflows
+
+🚀 FastAPI for backend systems
+
+🔗 Web3 Concepts & Smart Integrations
+
+🤝 Automation & n8n to build smart, scalable systems
+
+🏗️ High-performance, scalable apps with modern tools
+
+I'm on a journey to strengthen my core base in JS + Python while actively preparing myself to become a future Open-Source Contributor. Always experimenting, learning, and building.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aakash.rayamajhi.2025) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aakash_rayamajhi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aakash-rayamajhi-09b41a2a8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aakashrayamajhi03@gmail.com) 
