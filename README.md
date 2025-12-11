@@ -5,7 +5,7 @@ I love working on:
 
 ⚡ MERN , React Native EXPO  ... , 🤖 AI Integrations ... ,
 
-🤝 Bind AI-Agent - Automation , smart and scalable systems
+🤝 Build AI-Agent - Automation , smart and scalable systems
 
 
 I'm on a journey to strengthen my core base in JS + Python while actively preparing myself to become a future Open-Source Contributor. Always experimenting, learning, and building.
