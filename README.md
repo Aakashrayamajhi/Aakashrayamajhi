@@ -3,19 +3,10 @@ Hi, I'm Aakash Jung Rayamajhi — a passionate developer currently shaping mysel
 
 I love working on:
 
-⚡ MERN Stack & React Native
+⚡ MERN , React Native EXPO  ... , 🤖 AI Integrations ... ,
 
-🤖 AI Integrations (RAG, Vector DBs, Embeddings, LLMs)
+🤝 Bind AI-Agent - Automation , smart and scalable systems
 
-🐍 Python (Pandas, NumPy, Scikit-Learn) for data workflows
-
-🚀 FastAPI for backend systems
-
-🔗 Web3 Concepts & Smart Integrations
-
-🤝 Automation & n8n to build smart, scalable systems
-
-🏗️ High-performance, scalable apps with modern tools
 
 I'm on a journey to strengthen my core base in JS + Python while actively preparing myself to become a future Open-Source Contributor. Always experimenting, learning, and building.
 
