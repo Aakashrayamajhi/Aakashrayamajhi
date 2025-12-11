@@ -1,5 +1,5 @@
 
-Hi, I'm Aakash Rayamajhi — a passionate developer currently shaping myself into a T-Shaped / Pi-Shaped Engineer, building deep expertise in JavaScript & Python, while exploring the wider landscape of the IT ecosystem.
+Hi, I'm Aakash Jung Rayamajhi — a passionate developer currently shaping myself into a T-Shaped / Pi-Shaped Engineer, building deep expertise in JavaScript & Python, while exploring the wider landscape of the IT ecosystem.
 
 I love working on:
 
