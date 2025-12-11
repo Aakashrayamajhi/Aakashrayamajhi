@@ -1,5 +1,3 @@
-👨‍💻 About Me
-MERN & React Native Dev | Web3 + AI Enthusiast | Python Data Engineer | Automation & Scalable App Builder
 
 Hi, I'm Aakash Rayamajhi — a passionate developer currently shaping myself into a T-Shaped / Pi-Shaped Engineer, building deep expertise in JavaScript & Python, while exploring the wider landscape of the IT ecosystem.
 
